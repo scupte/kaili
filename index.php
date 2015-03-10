@@ -1,7 +1,4 @@
 <?php
-/**
- * 
- */
-phpinfo()
-echo time();
+$y=time();
+echo $y;
 ?>
