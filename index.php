@@ -2,5 +2,6 @@
 /**
  * 
  */
-phpinfo();
+phpinfo()
+echo time();
 ?>
